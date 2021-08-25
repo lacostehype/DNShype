@@ -13,6 +13,8 @@ pkg install figlet -y
 
 pkg install git -y 
 
+git clone https://github.com/lacostehype/DNShype
+
 cd DNShype
 
 python DNShype.py
