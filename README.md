@@ -17,4 +17,4 @@ git clone https://github.com/lacostehype/DNShype
 
 cd DNShype
 
-python DNShype.py
+python3 DNShype.py
