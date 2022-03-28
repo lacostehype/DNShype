@@ -1,6 +1,8 @@
 # DNShype
 
-• Metodo de instalação •
+# Metodo de instalação 
+
+[•] Um simples DNS RESOLVER não tal completo porém funciona espero que gostem :) [•]
 
 
 pkg update -y
