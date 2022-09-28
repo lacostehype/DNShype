@@ -2,7 +2,7 @@
 
 # Metodo de instalação 
 
-[•] Um simples DNS RESOLVER não tal completo porém funciona espero que gostem :) [•]
+[•] Um simples DNS RESOLVER não ta completo porém funciona espero que gostem :) [•]
 
 
 pkg update -y
