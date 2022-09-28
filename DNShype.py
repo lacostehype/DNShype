@@ -8,8 +8,8 @@ host = input(' Digite o Dominio:')
 
 try:
     print (host, '>>>', socket.gethostbyname(host))
-except:
-    print (host, '>>> O Dominio Passado é invalido')
+except Exception as erro:
+    print ('OCORREU UM ERRO >>>', erro)
 
 
 # Espero que gostem é a primeira versão então está bem simples
